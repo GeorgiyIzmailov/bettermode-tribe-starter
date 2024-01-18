@@ -46,7 +46,7 @@
     "@types/hpp": "^0.2.1",
     "@types/jest": "^26.0.24",
     "@types/jsonwebtoken": "^8.5.4",
-    "@types/mongoose": ">=6.4.6",
+    "@types/mongoose": "5.11.97",
     "@types/morgan": "^1.9.3",
     "@types/node": "^16.0.1",
     "@types/supertest": "^2.0.11",
