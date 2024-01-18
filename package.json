@@ -19,5 +19,8 @@
   "devDependencies": {
     "concurrently": "^7.1.0",
     "cross-env": "^7.0.3"
+  },
+  "dependencies": {
+    "@inkeep/widgets": "^0.2.253"
   }
 }
